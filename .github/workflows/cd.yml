@@ -25,4 +25,4 @@ jobs:
       - name: Build
         run: npm run build
       - name: Deploy
-        run: npm run deploy -- -r git@github.com:felisuco069/Modulo-7-Cloud-auto-ghpage.git
+        run: npm run deploy -- -r git@github.com:ffrancorojas/Modulo-7-Cloud-auto-ghpage.git
